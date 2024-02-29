@@ -35,7 +35,7 @@
   <p>Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.</p>
 
   <h2>License</h2>
-  <p>This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.</p>
+  <p>This project is licensed under the MIT License. Feel free to modify and distribute it according to the terms of the license..</p>
 </body>
 
 
